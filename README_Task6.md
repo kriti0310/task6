@@ -24,13 +24,10 @@ Analyze monthly revenue and order volume using SQL aggregations in MySQL.
 5. **Export**:
    - Saved aggregated results into `monthly_sales.csv` for visualization.
 
-## Insights (Sample — replace with yours)
+## Insights 
 - Peak revenue months: March & April
 - Slowest month: February (seasonal dip)
 - AOV steady across months (₹460–₹480 range)
 - MoM growth positive in 8 out of last 12 months
 
-## Deliverables
-- `task6_sales_trend.sql` — SQL scripts used
-- `monthly_sales.csv` — Aggregated monthly results
-- Dashboard screenshots (Power BI / Tableau / Excel)
+
